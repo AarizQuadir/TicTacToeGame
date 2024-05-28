@@ -71,4 +71,4 @@ Open a Pull Request
 # Contact
 Name: Aariz Quadir
 Email: aarizquadir@gmail.com
-Project Link: https://github.com/AarizQuadir/TicTacToe
+Project Link: https://aarizquadir.github.io/TicTacToeGame/
